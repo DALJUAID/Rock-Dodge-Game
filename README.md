@@ -72,3 +72,8 @@ g++ main.cpp -o RockDodgeGame -lglut -lGL -lGLU
 ```bash
 ./RockDodgeGame
 ```
+## Demo Video
+
+Watch the gameplay demonstration:
+
+[google](https://drive.google.com/file/d/17tWCCkfFxov5Dpnano_OHxBAPlAILE6P/view?usp=sharing)
